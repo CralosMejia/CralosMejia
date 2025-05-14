@@ -22,20 +22,12 @@ I'm a backend-focused software engineer based in Quito, Ecuador. With hands-on e
 
 ---
 
-## 📚 Certifications
-
-- Advanced Angular – Udemy  
-- Professional Git & GitHub – Platzi  
-- HTML & CSS – Platzi
-
----
-
 ## 📫 Let's connect
 
 - 📧 Email: camh670@gmail.com  
 - 🌍 Location: Quito, Ecuador  
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(agrega tu URL de perfil aquí)*  
-- 🔗 [Portfolio or Blog if any]
+- 🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/carlos-mejia-hidalgo/))
+
 
 ---
 
