@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Carlos Mejía
 
-<!--
-**CralosMejia/CralosMejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-focused software engineer based in Quito, Ecuador. With hands-on experience building and maintaining scalable applications using Node.js, I'm passionate about creating clean, efficient, and maintainable code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+- 💻 I specialize in backend development with JavaScript and TypeScript.
+- ⚙️ I’ve contributed to chatbot platforms (WhatsApp, Facebook, Instagram), internal banking systems, and academic management tools.
+- 🚀 I’m experienced working in agile teams and committed to continuous learning and best practices.
+- 🎯 Currently open to new backend engineering opportunities in dynamic and growth-oriented teams.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript (ES6+), TypeScript, Java, C#, HTML, CSS  
+**Frameworks:** Node.js, Express.js, Angular, Spring Boot  
+**Databases:** MongoDB, MySQL, SQL Server  
+**Tools:** Git, GitHub, Docker, Linux
+
+---
+
+## 📚 Certifications
+
+- Advanced Angular – Udemy  
+- Professional Git & GitHub – Platzi  
+- HTML & CSS – Platzi
+
+---
+
+## 📫 Let's connect
+
+- 📧 Email: camh670@gmail.com  
+- 🌍 Location: Quito, Ecuador  
+- 🔗 [LinkedIn](https://www.linkedin.com/) *(agrega tu URL de perfil aquí)*  
+- 🔗 [Portfolio or Blog if any]
+
+---
+
+*Thanks for stopping by!*
